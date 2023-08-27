@@ -31,4 +31,4 @@ Embracing GitOps principles requires a strategic selection of tools and practice
 
 This series promises to guide you through the multifaceted realms of GitOps, ensuring that you're not just scratching the surface but delving deep into its foundational principles.  
 
-I will continually link back to this introduction, ensuring you have a reference point, and can see how each new piece fits into the overarching narrative. Stay tuned because this exploration promises to be enlightening, informative, and instrumental in guiding GitOps endeavours.
+I will continually link back to this introduction, ensuring you have a reference point and can see how each new piece fits into the overarching narrative. Stay tuned because this exploration promises enlightening, informative, and instrumental in guiding GitOps endeavours.
